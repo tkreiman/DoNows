@@ -2,7 +2,8 @@
 #include <cs50.h>
 
 // What is the first number that this program prints out?
-// Challenge: What's the second?
+// What types of numbers does this print out?
+// Challenge: What's the second, the third?
 int main(void)
 {
 
