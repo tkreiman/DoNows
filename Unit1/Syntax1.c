@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
+// What is the error with this program?
 int main(void)
 {
     // Get user input
