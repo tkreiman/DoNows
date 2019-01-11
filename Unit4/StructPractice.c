@@ -13,7 +13,7 @@ struct Assignment
 
 int main(void)
 {
-    // 6 different assignments
+    // 5 different assignments
     int nAssignments = 5;
 
     // Creating the assignments
